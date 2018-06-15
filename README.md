@@ -5,6 +5,12 @@ Please add user-stories by adding an 'issue' (see above) and tagging it 'user-st
 
 You may also add a questions, or a suggested solution, by raising an issue (see above) and tagging it approriately.
 
+For annumcement about this initiative, please join this open Google Group:
+
+pids-in-dublin-core@googlegroups.com
+
+https://groups.google.com/d/forum/pids-in-dublin-core
+
 # PIDS in Dublin Core
 
 This initiative seeks to develop a DCMI recommendation on how to express Persistent Identifiers (PIDs) in XML-based metadata application profiles which use properties from the [Dublin Core Metadata Element Set](http://www.dublincore.org/documents/dces/) (DCES).
