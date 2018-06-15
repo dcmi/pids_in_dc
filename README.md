@@ -1,8 +1,9 @@
 Please add user-stories by adding an 'issue' (see above) and tagging it 'user-story'. User stories should start with a sentence of the form:
 
 > As an [ACTOR], I would like to [DO SOMETHING] in order to achieve [SOME BENEFIT].
-
 [see example](https://github.com/dcmi/pids_in_dc/issues/1)
+
+You may also add a questions, or a suggested solution, by raising an issue (see above) and tagging it approriately.
 
 # PIDS in Dublin Core
 
