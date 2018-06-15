@@ -28,7 +28,7 @@ This project will:
 
 ## Conference session outline
 
-### Preparation (pre-conference)
+### Preparation (pre-conference)
 
 User-stories, use-cases and other relevant position statements will have been solicited and gathered in this Github repository in advance of the session. At least one, and potentially several candidate solutions/recommendation will also have been outlined and added to this repository.
 
