@@ -2,6 +2,8 @@ Please add user-stories by adding an 'issue' (see above) and tagging it 'user-st
 
 > As an [ACTOR], I would like to [DO SOMETHING] in order to achieve [SOME BENEFIT].
 
+[see example](https://github.com/dcmi/pids_in_dc/issues/1)
+
 # PIDS in Dublin Core
 
 This initiative seeks to develop a DCMI recommendation on how to express Persistent Identifiers (PIDs) in XML-based metadata application profiles which use properties from the [Dublin Core Metadata Element Set](http://www.dublincore.org/documents/dces/) (DCES).
