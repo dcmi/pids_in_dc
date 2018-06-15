@@ -1,6 +1,6 @@
 # PIDS in Dublin Core - Proposal
 
-## Context
+## Context
 
 The exchange of metadata between systems in this domain is a key activity in that domain. Metadata from repositories is typically 'batch-harvested' using an HTTP and XML based protocol, [OAI-PMH](https://www.openarchives.org/OAI/openarchivesprotocol.html). In this context, repositories (and related systems) make much use of the DCES in a number of application profiles (e.g.  [OAI_DC](https://www.openarchives.org/OAI/openarchivesprotocol.html),  [OpenAIRE v4 (in beta)](http://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/latest/application_profile.html), [RIOXX v2](http://www.rioxx.net/profiles/v2-0-final/) etc.). OAI_DC is the default application profile used by OAI-PMH and is composed entirely of properties from the DCES.
 
