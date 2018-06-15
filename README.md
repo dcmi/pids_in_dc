@@ -1,4 +1,6 @@
+Please add user-stories by adding an 'issue' (see above) and tagging it 'user-story'. User stories should start with a sentence of the form:
 
+> As an [ACTOR], I would like to [DO SOMETHING] in order to achieve [SOME BENEFIT].
 
 # PIDS in Dublin Core
 
