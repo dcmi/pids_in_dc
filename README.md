@@ -5,7 +5,7 @@ Please add user-stories by adding an 'issue' (see above) and tagging it 'user-st
 
 You may also add a questions, or a suggested solution, by raising an issue (see above) and tagging it approriately.
 
-For annumcement about this initiative, please join this open Google Group:
+For annoucements about this initiative, please join this open Google Group:
 
 pids-in-dublin-core@googlegroups.com
 
