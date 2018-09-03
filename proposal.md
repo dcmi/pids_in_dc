@@ -14,17 +14,17 @@ For a majority of cases in this domain, the most important resources to be ident
 
 ## Project description
 
-This initiative seeks to develop a DCMI recommendation on how to express Persistent Identifiers (PIDs) in XML-based metadata application profiles which use properties from the [Dublin Core Metadata Element Set](http://www.dublincore.org/documents/dces/) (DCES).
+This initiative seeks to develop a DCMI recommendation on how to express Persistent Identifiers (PIDs) in XML-based metadata application profiles which use properties from either the [Dublin Core Metadata Element Set](http://www.dublincore.org/documents/dces/) (DCES) or the [DCMI Metadata Terms](http://www.dublincore.org/documents/dcmi-terms/).
 
 This recommendation should have wide applicability. It is required in particular by several organisations working in the general domain of scholarly communications, and with open-access repository systems in particular. This work will, therefore, benefit from the focus provided by some closely related 'real world' user-stories.
 
 This project will:
 
 1. Solicit 'real-world' user-stories and use-cases from interested parties, using the 'issues' feature in this repository.
-2. Develop some candidate approaches to expressing PIDs in metadata using properties from the DCES in the context of the examples described in #1.
+2. Develop some candidate approaches to expressing PIDs in metadata using properties from the Dublin Core vocabularies in the context of the examples described in #1.
 3. Hold a special session at the [DCMI annual conference in Porto, Portugal in September 2018](http://www.dublincore.org/conference/2018/), where the candidate approaches will be discussed with the intention of agreeing a consensus.
-4. Publish the results, either as a DCMI Recommendation or as a revision of the DCES itself.
-5. Develop an RDF-based application profile and algorithm for converting metadata based on the XML schema into RDF for the purposes of publication as Linked Data.
+4. Publish the results, either as a DCMI Recommendation or as a revision of the vocabularies themselves.
+5. Develop algorithms/tools for converting metadata based on the XML schema into RDF for the purposes of publication as Linked Data.
 
 ## Conference session outline
 
@@ -36,7 +36,7 @@ User-stories, use-cases and other relevant position statements will have been so
 
 The main purpose of the session in Porto will be, therefore, to consider the candidate solutions in the context of the documented use-cases, and to attempt to reach a consensus on what should be recommended.
 
-The workshop will constrain itself to the issue of how PIDs should be expressed in properties from the DCES, especially when serialised as XML/JSON. It will *not* attempt to develop a new metadata application profile for this domain. However, the application profiles already used in this domain may benefit immediately from a clear recommendation from DCMI on expressing PIDs.
+The workshop will constrain itself to the issue of how PIDs should be expressed in properties from the Dublin Core vocabularies, especially when serialised as XML/JSON. It will *not* attempt to develop a new metadata application profile for this domain. However, the application profiles already used in this domain may benefit immediately from a clear recommendation from DCMI on expressing PIDs.
 
 #### Format
 
@@ -46,4 +46,4 @@ Attendance will be a mixture of invited people, with a call to go out to attract
 
 #### Intended output
 
-The output will depend on the success of the discussions. If successful, the output of the workshop will be the basis of an official DCMI Recommendation or, possibly, a revision to the Dublin Core Element Set itself.
+The output will depend on the success of the discussions. If successful, the output of the workshop will be the basis of an official DCMI Recommendation or, possibly, revisions to the Dublin Core vocabularies themselves.
