@@ -13,7 +13,7 @@ https://groups.google.com/d/forum/pids-in-dublin-core
 
 # PIDS in Dublin Core
 
-This initiative seeks to develop a DCMI recommendation on how to express Persistent Identifiers (PIDs) in XML-based metadata application profiles which use properties from either the [Dublin Core Metadata Element Set](http://www.dublincore.org/documents/dces/) (DCES) or the [DCMI Metadata Terms](http://www.dublincore.org/documents/dcmi-terms/).
+This initiative seeks to develop a DCMI recommendation on how to express Persistent Identifiers (PIDs) in XML-based metadata application profiles which use properties from [DCMI Metadata Terms](http://www.dublincore.org/documents/dcmi-terms/).
 
 This recommendation should have wide applicability. It is required in particular by several organisations working in the general domain of scholarly communications, and with open-access repository systems in particular. This work will, therefore, benefit from the focus provided by some closely related 'real world' user-stories.
 
