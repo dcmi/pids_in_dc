@@ -121,7 +121,7 @@ The simplest approach to this would seem to be to add an ID attribute to those D
 #### Example 1.1: If both PID and label are known
 
 ```xml
-<dc:creator id="https://orcid.org/0000-0003-1541-5631">Walk, Paul</dc:creator>
+    <dc:creator id="https://orcid.org/0000-0003-1541-5631">Walk, Paul</dc:creator>
 ```
 
 #### Example 1.2: If label is known, but PID is not
