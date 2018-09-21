@@ -18,7 +18,7 @@ This paper uses the example of expressing the author of a resource with the Dubl
 # Context
 
 ##  Scholarly communications
-The domain of scholarly communications relies on the exchange and long-term maintenance of metadata.  Properties from [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) are used extensively in this metadata. Some widely-used metadata formats, such as [OAI-DC](http://www.openarchives.org/OAI/2.0/oai_dc.xsd)), consist entirely of Dublin Core properties. While RDF and graph databases are increasingly used, metadata is still most commonly exchanged in a hierarchical serialised formats such as XML or JSON, hence the focus of this activity on XML and JSON.
+The domain of scholarly communications relies on the exchange and long-term maintenance of metadata.  Properties from [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) are used extensively in this metadata. Some widely-used metadata formats, such as [OAI-DC](http://www.openarchives.org/OAI/2.0/oai_dc.xsd), consist entirely of Dublin Core properties. While RDF and graph databases are increasingly used, metadata is still most commonly exchanged in a hierarchical serialised formats such as XML or JSON, hence the focus of this activity on XML and JSON.
 
 ##  The use of persistent identifiers (PIDs)
 The advantages of using global, persistent identifiers in metadata are well understood, but adoption has been slow. In scholarly communications, there is evidence that communities and organisations are now serious about promoting the use of PIDs with a focus on:
