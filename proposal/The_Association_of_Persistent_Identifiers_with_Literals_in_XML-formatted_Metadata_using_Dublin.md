@@ -114,7 +114,7 @@ The expression of PIDs without associated string literals is a trivial matter, e
 
 This is the main issue to be addressed. DCMI proposes two alternative approaches to this.
 
-### Proposal 1: Using an 'id' attribute with Dublin Core properties
+### Proposal 1: Using an 'id' attribute with Dublin Core properties
 
 The simplest approach to this would seem to be to add an ID attribute to those Dublin Core properties which do *not* constrain the value to be a literal. The following examples should illustrate this approach.
 
@@ -142,7 +142,7 @@ or
 <dc:creator id="https://orcid.org/0000-0003-1541-5631"/>
 ```
 
-#### Advantages
+#### Advantages
 
 This approach has certain advantages. It is simple to understand and easy to remember, which should aid its adoption. It is already somewhat conventional, as the use of an ID attribute in XML is quite common. 
 
@@ -154,7 +154,7 @@ The better approach to this situation is simply to choose one of the PIDs to use
 
 Another tradeoff in this approach is that it relies on a feature of XML  - the use of *attributes* - which are not present in other serialisation formats such as, notably, JSON which uses a simpler model of key/value pairs. However, translating XML elements with associated attributes to JSON is possible by simply adding deeper nesting of key/value pairs.
 
-## Proposal 2: Using nested properties for identifiers (and possibly other information)
+## Proposal 2: Using nested properties for identifiers (and possibly other information)
 
 A different approach is to use nested properties (or 'elements' in XML terms), instead of attributes, for those Dublin Core properties which do *not* constrain the value to be a literal. This mainly involves including one or more instances of the Dublin Core property: `identifier`. The following examples should illustrate this approach.
 
